@@ -1,0 +1,13 @@
+C:\Users\vgarz\source\repos\Cadenas de Markov\Cadenas de Markov\obj\Debug\netcoreapp3.1\Cadenas de Markov.csprojAssemblyReference.cache
+C:\Users\vgarz\source\repos\Cadenas de Markov\Cadenas de Markov\obj\Debug\netcoreapp3.1\Cadenas de Markov.AssemblyInfoInputs.cache
+C:\Users\vgarz\source\repos\Cadenas de Markov\Cadenas de Markov\obj\Debug\netcoreapp3.1\Cadenas de Markov.AssemblyInfo.cs
+C:\Users\vgarz\source\repos\Cadenas de Markov\Cadenas de Markov\obj\Debug\netcoreapp3.1\Cadenas de Markov.csproj.CoreCompileInputs.cache
+C:\Users\vgarz\source\repos\Cadenas de Markov\Cadenas de Markov\bin\Debug\netcoreapp3.1\Cadenas de Markov.exe
+C:\Users\vgarz\source\repos\Cadenas de Markov\Cadenas de Markov\bin\Debug\netcoreapp3.1\Cadenas de Markov.deps.json
+C:\Users\vgarz\source\repos\Cadenas de Markov\Cadenas de Markov\bin\Debug\netcoreapp3.1\Cadenas de Markov.runtimeconfig.json
+C:\Users\vgarz\source\repos\Cadenas de Markov\Cadenas de Markov\bin\Debug\netcoreapp3.1\Cadenas de Markov.runtimeconfig.dev.json
+C:\Users\vgarz\source\repos\Cadenas de Markov\Cadenas de Markov\bin\Debug\netcoreapp3.1\Cadenas de Markov.dll
+C:\Users\vgarz\source\repos\Cadenas de Markov\Cadenas de Markov\bin\Debug\netcoreapp3.1\Cadenas de Markov.pdb
+C:\Users\vgarz\source\repos\Cadenas de Markov\Cadenas de Markov\obj\Debug\netcoreapp3.1\Cadenas de Markov.dll
+C:\Users\vgarz\source\repos\Cadenas de Markov\Cadenas de Markov\obj\Debug\netcoreapp3.1\Cadenas de Markov.pdb
+C:\Users\vgarz\source\repos\Cadenas de Markov\Cadenas de Markov\obj\Debug\netcoreapp3.1\Cadenas de Markov.genruntimeconfig.cache
